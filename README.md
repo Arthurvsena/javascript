@@ -1,3 +1,5 @@
+#Material que estou utilizando para estudos,a intenção é resolver fazer um commit a cada desafio resolvido pelo material distribuido pelo professor Guanabara!
+
 <img src="imagens/mascote.png" align="right" width="300">
 
 # Curso de JavaScript
