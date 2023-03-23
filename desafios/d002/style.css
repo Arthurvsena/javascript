@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0;
+    width: 100%;
+}
+
+#botao {
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background: linear-gradient(to right, #190256, #5e27f5);
+    box-shadow: 9px 10px 24px -14px rgba(0,0,0,0.75);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+#botao:hover{
+    border: 5px solid #be37e8;
+}
